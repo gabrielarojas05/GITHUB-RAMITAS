@@ -1,2 +1,2 @@
 # GITHUB-RAMITAS
-Laboratorio 1 github
+Laboratorio 1 github corte2 
